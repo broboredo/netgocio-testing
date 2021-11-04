@@ -13,5 +13,6 @@
 - Update .env file with your database informations
 - Run `composer install` to install php packages
 - Run `npm install` to install javascript packages
+- Run `php artisan key:generate` to generate an encryption key
 - Run `php artisan migrate` to migrate the tables in your database
 - Run `php artisan serve` to run application in your PC (default: http://localhost:8000)
